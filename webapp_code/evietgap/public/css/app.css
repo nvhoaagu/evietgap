@@ -1,0 +1,15 @@
+body {
+    font-family: 'Tahoma';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}

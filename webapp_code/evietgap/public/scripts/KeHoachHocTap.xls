@@ -1,0 +1,131 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>KE HOACH HOC TAP CUA SINH VIEN</title>
+</head>
+<table  align="center" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align=center colspan="8"><font size="4"><b>TRƯỜNG ĐẠI HỌC CẦN THƠ</b></font> </td>
+  </tr>
+  <tr>
+    <td colspan="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align=center colspan="8"><font size="4"><b>Kế Hoạch Học Tập Của Sinh Viên</b></font> </td>
+  </tr>
+  <tr>
+    <td colspan="8">&nbsp;</td>
+  </tr>
+  <tr height="20">
+    <td align="left" colspan="8">Họ và tên&nbsp;&nbsp;&nbsp;<b>Huỳnh Phước Hải</b>&nbsp;&nbsp;&nbsp;- Mã số&nbsp;&nbsp;&nbsp;<b>P1616001</b></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="8">Ngày sinh&nbsp;&nbsp;&nbsp;<b>201285</b></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="8">Lớp&nbsp;&nbsp;&nbsp;<b>DI1616V1</b>-Ngành&nbsp;&nbsp;&nbsp;<b>Hệ thống thông tin</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="8">&nbsp;</td>
+  </tr>
+  
+   <tr >
+    <td align="center" colspan="8"><b>Danh sách học phần trong khung kế hoạch học tập</b> </td>
+  </tr>
+  <tr>
+    <td colspan="8" align="center">
+	<table align="center" border='1' width="100%" cellpadding="0" cellspacing="0">
+      <tr >
+        <td align="center" width="4%" ><b>STT</b></td>
+        <td width="8%" align="center" ><b>Mã HP </b> </td>
+        <td width="28%" align="center" ><strong>Tên học phần </strong> </td>
+        <td width="6%" align="center" ><strong>Số TC </strong></td>
+        <td width="12%" align="center" ><strong>Năm học </strong></td>
+        <td width="4%" align="center" ><strong>HK</strong></td>
+                    <td width="10%" align="center"  >Ngày bắt nđầu </td>
+            <td width="10%" align="center"  >Ngày kết thúc</td>
+        		        <!--<td width="8%" align="center" ><strong>Đã duyệt</strong> </td>-->
+      </tr>
+            <tr >
+        <td align="center" >1</td>
+        <td  align="center" >CT901</td>
+        <td  align="left">Khai thác dữ liệu văn bản và Web (Text and Web Mining) </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2016-2017&nbsp;</td>
+        <td align="center" >1</td>
+                <td  align="center"></td>
+        <td  align="center"></td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >2</td>
+        <td  align="center" >CT902</td>
+        <td  align="left">Khai thác tri thức từ dữ liệu (Knowledge Discovery in DataBase) </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2016-2017&nbsp;</td>
+        <td align="center" >1</td>
+                <td  align="center"></td>
+        <td  align="center"></td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >3</td>
+        <td  align="center" >CT903</td>
+        <td  align="left">An toàn và bảo mật thông tin (Information security and privacy) </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2016-2017&nbsp;</td>
+        <td align="center" >2</td>
+                <td  align="center"></td>
+        <td  align="center"></td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >4</td>
+        <td  align="center" >CT905</td>
+        <td  align="left">Xử lý dữ liệu lớn trong môi trường điện toán đám mây </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2016-2017&nbsp;</td>
+        <td align="center" >2</td>
+                <td  align="center"></td>
+        <td  align="center"></td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+          </table>	</td>
+  </tr>
+  <tr>
+    <td align="right" colspan="8">Tổng số tín chỉ: 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ 
+
+  <tr>
+    <td colspan='8'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="8" align="center">
+	    <table align='center' width='100%'>
+  <tr>
+    <td width="48%" align="center" colspan="4"><strong>Cần Thơ, Ngày....Tháng....Năm 20..</strong>.</td>
+    <td width="52%" align="center" colspan="4"><strong>Cần Thơ, Ngày....Tháng....Năm 20...</strong></td>
+  </tr>  
+	 <tr>
+	<td align="center" colspan="4">Xác nhận của Cố Vấn Học Tập</td>
+    <td align="center" colspan="4">Xác nhận của sinh viên</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">......................</td>
+    <td align="center" colspan="4"><b>Huỳnh Phước Hải</b></td>
+  </tr>  
+</table></td>
+</tr>
+</table>
