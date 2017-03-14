@@ -1,0 +1,202 @@
+table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+#header{
+  background-image: url('../images/bg.png');
+  background-repeat: repeat-y;
+  background-position: right;
+  background-color: #428bca;
+  padding: 6px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  padding-left: 100px;
+  color: white;
+  font-size: 26px;
+  text-shadow: 2px 2px 5px #000000;
+}
+#footer{
+    padding: 20px;
+    margin-top: 20px;
+}
+#banner
+{
+    position: relative;
+    background-color: #028cee;
+    /*min-width: 750px;*/
+    height: 83px;
+    /*margin-top: 5px;
+    margin-bottom:5px;
+    margin-left: 15px;
+    margin-right: 30px;*/
+}
+
+.relative
+{
+    position: relative;
+}
+
+#logo
+{
+    float: left;
+    cursor: pointer;
+    margin: 10px;
+}
+.HeadMenu
+{
+    height: 34px;
+    line-height: 34px;
+    min-width: 750px;
+    background: #f1f1f1;
+}
+
+#titleBanner
+{
+    float: left;
+}
+
+#titleSo
+{
+    font-family: Arial;
+    font-weight: bold;
+    color: #fff;
+    font-size: 13px;
+    margin-top: 16px;
+    text-transform: uppercase;
+}
+
+#titleHTTT
+{
+    font-family: Arial;
+    font-weight: bold;
+    color: #ffff00;
+    font-size: 23px;
+}
+
+#nenBannerRight
+{
+    position: absolute;
+    right: 20px;
+    margin-right: 30px;
+}
+.itempm1
+{
+    background-color: #a4c400;
+    cursor: pointer;
+}
+
+.itempm1:hover
+{
+    background-color: #8fab00;
+}
+
+.itempm2
+{
+    background-color: #5fa818;
+    cursor: pointer;
+}
+
+.itempm2 :hover
+{
+    background-color: #529314;
+}
+
+.itempm3
+{
+    background-color: #01a101;
+    cursor: pointer;
+}
+
+.itempm3 :hover
+{
+    background-color: #008800;
+}
+
+.itempm4
+{
+    background-color: #2dbcfe;
+    cursor: pointer;
+}
+
+.itempm4:hover
+{
+    background-color: #00ABFA;
+}
+
+.itempm5
+{
+    background-color: #02a2ec;
+    cursor: pointer;
+}
+
+.itempm5:hover
+{
+    background-color: #0291D2;
+}
+
+.itempm6
+{
+    background-color: #007fd8;
+    cursor: pointer;
+}
+
+.itempm6 :hover
+{
+    background-color: #0070C0;
+}
+
+.itempm7
+{
+    background-color: #fdb52b;
+    cursor: pointer;
+}
+
+.itempm7 :hover
+{
+    background-color: #FDAC12;
+}
+
+.itempm8
+{
+    background-color: #fb9503;
+    cursor: pointer;
+}
+
+.itempm8 :hover
+{
+    background-color: #ed8c02;
+}
+
+.itempm9
+{
+    background-color: #f97c18;
+    cursor: pointer;
+}
+
+.itempm9:hover
+{
+    background-color: #fa7308;
+}
+.titleItemPM
+{
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+.w3-sidenav a,.w3-sidenav h4 {padding: 12px;}
+.w3-navbar li a {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}

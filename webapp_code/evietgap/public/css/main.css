@@ -1,0 +1,19 @@
+#header{
+  background-image: url('../images/bg.png');
+  background-repeat: repeat-y;
+  background-position: right;
+  background-color: #428bca;
+  padding: 6px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  padding-left: 100px;
+  color: white;
+  font-size: 26px;
+  text-shadow: 2px 2px 5px #000000;
+}
+#footer{
+    background: #2E2E2E;
+    color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
